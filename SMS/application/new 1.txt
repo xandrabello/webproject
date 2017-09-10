@@ -1,0 +1,3 @@
+<?php
+class students_models extends CI_Models {
+}
